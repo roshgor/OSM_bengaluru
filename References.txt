@@ -1,0 +1,5 @@
+1) https://stackoverflow.com/
+2) https://docs.python.org/
+3) https://wiki.openstreetmap.org
+4) https://www.w3schools.com
+5) https://www.geeksforgeeks.org
